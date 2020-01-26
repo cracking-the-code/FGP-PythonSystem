@@ -43,18 +43,23 @@ def series_to_supervised(data, n_in=1, n_out=1, dropnan=True):
     return agg
 
 def steps_back(data):
-    steps = data.shape[1] - 1
 
+    steps = data.shape[1] - 1
     values = data.values
-    x_test = values[(steps - 1):,:-1]
-    y_test = values[(steps - 1):,-1]
+
+    train = values[(steps):,:]
+
+    x_test = train[:,:-1]
+    y_test = train[:,-1]
+
     x_test = x_test.reshape((x_test.shape[0],x_test.shape[1]))
     
     print("x_test: %s" % str(x_test.shape))
     print("y_test: %s" % str(y_test.shape))
+
     return x_test, y_test
 
-def trainModel(train_x, tra):
+def trainModel(train_x, train_y):
     param_grid = {
                     "C": np.linspace(10**(-2),10**3,100),
                     "gamma": np.linspace(0.0001,1,20)
@@ -67,18 +72,15 @@ def trainModel(train_x, tra):
     scalerOut = MinMaxScaler(feature_range=(-1,1))
 
     scaledTrain = scalerIn.fit_transform(train_x)
-    scaledTrainFuture = scalerOut.fit_transform(tra.reshape(-1,1))
+    scaledTrainFuture = scalerOut.fit_transform(train_y.reshape(-1,1))
 
-    print("=======================***********TRAIN***********=====================")
-    print(scaledTrain)
-    
     best_model = model.fit(scaledTrain, scaledTrainFuture.ravel())
     
     #prediction
     predicted_tr = model.predict(scaledTrain)
 
     # inverse_transform because prediction is done on scaled inputs
-    predicted_tr = scalerIn.inverse_transform(predicted_tr.reshape(-1,1))
+    predicted_tr = scalerOut.inverse_transform(predicted_tr.reshape(-1,1))
 
     print("=======================***********TRAIN RESULT***********=====================")
     print(predicted_tr)
@@ -98,13 +100,11 @@ def plotting(data, train, test):
     plt.show()
 
 def addNewValue(x_test, newValue):
-    print(x_test.shape[0])
-    print(x_test.shape[1])
     for i in range(x_test.shape[1]-1):
-        print(x_test[0][i])
         x_test[0][i] = x_test[0][i+1]
-    x_test[0][0][x_test.shape[1]-1]=newValue
-    print(x_test)
+
+    x_test[0][x_test.shape[1]-1]=newValue
+
     return x_test
 
 #Toma rangos de la serie temporal
@@ -119,11 +119,15 @@ stepsBack, trainn = steps_back(reframed)
 #Mostrar los resultados
 #################################################################3plotting(resampled, trainP, testP)
 #Agregar nuevos valores a la lista
+
 x_test = stepsBack
-print(x_test)
+print(stepsBack)
+
 results=[]
 for i in range(3):
+    print("##################CICLE: %d" % i)
     parcial = trainModel(x_test, trainn)
     results.append(parcial[0])
-    print(x_test)
     x_test = addNewValue(x_test,parcial[0])
+    print("_____________________TEST_________________________")
+    print(x_test)
