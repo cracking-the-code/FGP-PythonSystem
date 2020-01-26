@@ -1,2 +1,2 @@
 # FGP-PythonSystem
-FGP-PythonSystem in python
+Forecasting General Process Python System
