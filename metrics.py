@@ -1,15 +1,10 @@
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-from math import sqrt
 
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.svm import SVR
 from sklearn.model_selection import GridSearchCV
-
-from sklearn.metrics import mean_absolute_error
-from sklearn.metrics import mean_squared_error
-
 
 df = pd.read_csv('20200113.csv',  parse_dates=[0], header=0,index_col=0, squeeze=True)
 df.head()
@@ -47,6 +42,22 @@ def series_to_supervised(data, n_in=1, n_out=1, dropnan=True):
         agg.dropna(inplace=True)
     return agg
 
+def steps_back(data):
+    steps = data.shape[1] - 1
+    values = data.values
+
+    train = values[(steps):,:]
+
+    x_test = train[:,:-1]
+    y_test = train[:,-1]
+
+    x_test = x_test.reshape((x_test.shape[0],x_test.shape[1]))
+    
+    print("x_test: %s" % str(x_test.shape))
+    print("y_test: %s" % str(y_test.shape))
+
+    return x_test, y_test
+
 def split_timeSeries(data, percentage):
     length = data.shape[0]
     ntime = round(length * (percentage / 100))
@@ -55,23 +66,12 @@ def split_timeSeries(data, percentage):
     train = values[:ntime, :]
     test = values[ntime:, :]
 
-    #split into inputs & outputs
-    x_train, y_train = train[:,:-1], train[:,-1]
-    x_test, y_test = test[:,:-1], test[:,-1]
+    print("train: %s" % str(train.shape))
+    print("test: %s" % str(test.shape))
 
-    #reshape to be 3D, but in this case 2D [samples,features]
-    x_train = x_train.reshape((x_train.shape[0]), x_train.shape[1])
-    x_test = x_test.reshape((x_test.shape[0]), x_test.shape[1])
+    return train, test
 
-    print("Total: %s" % str(data.shape))
-    print("x_train: %s" % str(x_train.shape))
-    print("y_train: %s" % str(y_train.shape))
-    print("x_test: %s" % str(x_test.shape))
-    print("y_test: %s" % str(y_test.shape)) 
-
-    return x_train, y_train, x_test, y_test
-
-def trainModel(train_x, train_y, test_x, test_y):
+def trainModel(train_x, train_y):
     param_grid = {
                     "C": np.linspace(10**(-2),10**3,100),
                     "gamma": np.linspace(0.0001,1,20)
@@ -86,70 +86,72 @@ def trainModel(train_x, train_y, test_x, test_y):
     scaledTrain = scalerIn.fit_transform(train_x)
     scaledTrainFuture = scalerOut.fit_transform(train_y.reshape(-1,1))
 
-    scaledTest = scalerIn.fit_transform(test_x)
-    scaledTestFuture = scalerOut.fit_transform(test_y.reshape(-1,1))
-
-    print("=======================***********TRAIN***********=====================")
-    print(scaledTrain)
-    print("=======================***********TEST***********=====================")
-    print(scaledTest)
-    print("=======================***********TRAIN F***********=====================")
-    print(scaledTrainFuture)
-    print("=======================***********TEST F***********=====================")
-    print(scaledTestFuture)
-
     best_model = model.fit(scaledTrain, scaledTrainFuture.ravel())
     
     #prediction
     predicted_tr = model.predict(scaledTrain)
-    predicted_te = model.predict(scaledTest)
 
     # inverse_transform because prediction is done on scaled inputs
     predicted_tr = scalerOut.inverse_transform(predicted_tr.reshape(-1,1))
-    predicted_te = scalerOut.inverse_transform(predicted_te.reshape(-1,1))
 
-    print(best_model)
     print("=======================***********TRAIN RESULT***********=====================")
     print(predicted_tr)
-    print("=======================***********TEST RESULT***********=====================")
-    print(predicted_te)
 
-    return predicted_tr, predicted_te
+    return predicted_tr
 
-def plotting(data, train, test):
-    values = data.values
-    forecast = np.concatenate((train, test))
+def plotting(real, dataTest, prediction):
+    values = real.values
+    valuesTest = pd.DataFrame(dataTest)
+    valuesTest = valuesTest.values
+    forecast = np.concatenate((dataTest, prediction))
     plt.plot(values, color = 'blue', label = 'Serie Original')
-    plt.plot(forecast, "--", linewidth = 2, color = 'red', label = 'Prediccion')
-    #plt.plot(train, color = 'green', label = 'train')
-    #plt.plot(test, color = 'black', label = 'test')
-    plt.plot([None for i in train] + [x for x in test])
+    #plt.plot([i for i in values] + [x for x in prediction])
+    plt.plot(forecast, "-.", linewidth = 2, color = 'red', label = 'Prediccion')
+    plt.plot(valuesTest, color = 'black', label = 'Entrenamiento')
     plt.xlabel('Time')
     plt.ylabel('Potency')
     plt.legend()
     plt.show()
 
-def metrics(expected, predicted):
-    print("****************************Metics :D************************************")
-    values = expected.values
-    expected = values[:,-1]
-    mae = mean_absolute_error(expected, predicted)
-    print("MAE: %f" % mae)
-    mse = mean_squared_error(expected, predicted)
-    print("MSE: %f" % mse)
-    rmse = sqrt(mse)
-    print("RMSE: %f" % rmse)
+def addNewValue(x_test, newValue):
+    for i in range(x_test.shape[1]-1):
+        x_test[0][i] = x_test[0][i+1]
+
+    x_test[0][x_test.shape[1]-1]=newValue
+
+    return x_test
 
 #Toma rangos de la serie temporal
-resampled = resampleSeries(df, 5)
+resampled = resampleSeries(df, 20)
+
+trainPart, testPart = split_timeSeries(resampled, 60)
+
 #Se convierte la serie temporal a un problema de aprendizaje supervisado
-reframed = series_to_supervised(resampled, 4, 1)
+reframed = series_to_supervised(trainPart, 4, 1)
 #Se divide la serie en muestras de entrenamiento y testing
-x_train, y_train, x_test, y_test = split_timeSeries(reframed, 60)
+stepsBack, trainn = steps_back(reframed)
 #Se entrena al modelo y se obtienen predicciones de entrenamiento y testing
-trainP, testP = trainModel(x_train, y_train, x_test, y_test)
+############trainP, testP = trainModel(x_train, y_train, x_test, y_test)
 #Mostrar los resultados
-plotting(resampled, trainP, testP)
-#Metricas de desempeño
-prediccion = np.concatenate((trainP, testP))
-metrics(reframed,prediccion)
+#################################################################3plotting(resampled, trainP, testP)
+#Agregar nuevos valores a la lista
+
+x_test = stepsBack
+print(stepsBack)
+
+results=[]
+for i in range(5):
+    print("##################CICLE: %d" % i)
+    parcial = trainModel(x_test, trainn)
+    results.append(parcial[0])
+    x_test = addNewValue(x_test,parcial[0])
+    print("_____________________TEST_________________________")
+    print(x_test)
+
+adimen = [x for x in results]
+prediction = pd.DataFrame(adimen)
+prediction.columns = ['pronostico']
+
+print(prediction)
+
+plotting(resampled, trainPart, prediction)
