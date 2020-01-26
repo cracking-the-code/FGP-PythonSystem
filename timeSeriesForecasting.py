@@ -87,13 +87,12 @@ def trainModel(train_x, train_y):
 
     return predicted_tr
 
-def plotting(data, train, test):
+def plotting(data, prediction):
     values = data.values
-    forecast = np.concatenate((train, test))
+    forecast = np.concatenate((data, prediction))
     plt.plot(values, color = 'blue', label = 'Serie Original')
     plt.plot(forecast, "--", linewidth = 2, color = 'red', label = 'Prediccion')
-    plt.plot(train, color = 'green', label = 'train')
-    plt.plot(test, color = 'black', label = 'test')
+    plt.plot(prediction, color = 'green', label = 'prediction')
     plt.xlabel('Time')
     plt.ylabel('Potency')
     plt.legend()
@@ -108,9 +107,9 @@ def addNewValue(x_test, newValue):
     return x_test
 
 #Toma rangos de la serie temporal
-resampled = resampleSeries(df, 10)
+resampled = resampleSeries(df, 30)
 #Se convierte la serie temporal a un problema de aprendizaje supervisado
-reframed = series_to_supervised(resampled, 3, 1)
+reframed = series_to_supervised(resampled, 5, 1)
 #Se divide la serie en muestras de entrenamiento y testing
 #x_train, y_train, x_test, y_test = split_timeSeries(reframed, 80)
 stepsBack, trainn = steps_back(reframed)
@@ -124,10 +123,18 @@ x_test = stepsBack
 print(stepsBack)
 
 results=[]
-for i in range(3):
+for i in range(20):
     print("##################CICLE: %d" % i)
     parcial = trainModel(x_test, trainn)
     results.append(parcial[0])
     x_test = addNewValue(x_test,parcial[0])
     print("_____________________TEST_________________________")
     print(x_test)
+
+adimen = [x for x in results]
+prediction = pd.DataFrame(adimen)
+prediction.columns = ['pronostico']
+
+print(prediction)
+
+plotting(resampled, prediction)
