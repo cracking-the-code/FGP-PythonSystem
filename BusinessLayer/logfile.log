@@ -1,0 +1,722 @@
+2020-08-06 12:56:54,238 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-06 12:56:54,239 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-06 12:56:54,239 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-06 12:56:54,239 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-06 12:56:56,786 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-06 12:57:12,854 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-06 12:57:12,855 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-06 12:57:12,855 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-06 12:57:12,855 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-06 12:57:15,347 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-06 13:14:32,260 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-06 13:14:32,260 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-06 13:14:32,261 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-06 13:14:32,261 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-06 13:14:34,837 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-06 13:14:59,366 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-06 13:14:59,366 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-06 13:14:59,366 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-06 13:14:59,366 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-06 13:15:01,802 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-06 13:15:15,953 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-06 13:15:15,953 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-06 13:15:15,954 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-06 13:15:15,954 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-06 13:15:18,338 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-06 13:15:48,337 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-06 13:15:48,338 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-06 13:15:48,338 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-06 13:15:48,338 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-06 13:15:50,890 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-06 13:16:40,323 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-06 13:16:40,323 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-06 13:16:40,323 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-06 13:16:40,323 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-06 13:16:42,766 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-06 13:17:51,617 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-06 13:17:51,618 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-06 13:17:51,618 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-06 13:17:51,618 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-06 13:17:54,308 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-06 13:18:18,023 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-06 13:18:18,024 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-06 13:18:18,024 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-06 13:18:18,024 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-06 13:18:20,509 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-06 13:20:48,733 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-06 13:20:48,734 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-06 13:20:48,734 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-06 13:20:48,734 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-06 13:20:51,339 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-06 13:23:46,584 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-06 13:23:46,584 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-06 13:23:46,584 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-06 13:23:46,585 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-06 13:23:49,054 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-06 13:24:01,487 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-06 13:24:01,487 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-06 13:24:01,487 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-06 13:24:01,487 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-06 13:24:04,254 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-06 13:24:30,258 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-06 13:24:30,258 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-06 13:24:30,258 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-06 13:24:30,258 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-06 13:24:32,808 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-06 13:24:32,808 - sLogger - ERROR - DataProcess[getMeasurements]: An error has occur during querying the data
+2020-08-06 13:24:32,808 - sLogger - ERROR - DataProcess[getMeasurements]: Error: ("name 'idDispositivo' is not defined",)
+2020-08-06 13:25:37,416 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-06 13:25:37,416 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-06 13:25:37,416 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-06 13:25:37,416 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-06 13:25:40,170 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-06 13:25:54,515 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-06 13:25:54,515 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-06 13:25:54,515 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-06 13:25:54,515 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-06 13:25:56,867 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-06 13:26:12,155 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-06 13:26:12,155 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-06 13:26:12,155 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-06 13:26:12,155 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-06 13:26:14,533 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-06 13:26:14,533 - sLogger - INFO - DataProcess[getMediciones]: Se consultaran las mediciones para: Joshua001
+2020-08-06 13:26:14,534 - sLogger - ERROR - DataProcess[getMeasurements]: An error has occur during querying the data
+2020-08-06 13:26:14,534 - sLogger - ERROR - DataProcess[getMeasurements]: Error: ("name 'Measurement' is not defined",)
+2020-08-06 13:27:24,887 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-06 13:27:24,887 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-06 13:27:24,887 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-06 13:27:24,887 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-06 13:27:27,697 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-06 13:27:27,697 - sLogger - INFO - DataProcess[getMediciones]: Se consultaran las mediciones para: Joshua001
+2020-08-06 13:27:27,697 - sLogger - INFO - DbConnection[getMedicion]: Se realizara la siguiente Query en la BD
+2020-08-06 13:27:27,698 - sLogger - INFO - DbConnection[getMedicion]: Query: SELECT TimeMeasure, Potency FROM Tbl_DeviceMeasurement WHERE IdDev = 'Joshua001' AND TimeMeasure >= 'Apr 20, 2020 11:34:24 PM'
+2020-08-06 13:27:27,698 - sLogger - ERROR - DbConnection[getMedicion]: Ocurrio un error durante la conversion a DataFrame
+2020-08-06 13:27:27,698 - sLogger - ERROR - DbConnection[getMedicion]: Error: ("name 'pd' is not defined",)
+2020-08-06 13:27:27,698 - sLogger - INFO - DataProcess[getMediciones]: Se ha realizado la consulta!
+2020-08-06 13:27:53,366 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-06 13:27:53,366 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-06 13:27:53,367 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-06 13:27:53,367 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-06 13:27:55,967 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-06 13:27:55,967 - sLogger - INFO - DataProcess[getMediciones]: Se consultaran las mediciones para: Joshua001
+2020-08-06 13:27:55,967 - sLogger - INFO - DbConnection[getMedicion]: Se realizara la siguiente Query en la BD
+2020-08-06 13:27:55,967 - sLogger - INFO - DbConnection[getMedicion]: Query: SELECT TimeMeasure, Potency FROM Tbl_DeviceMeasurement WHERE IdDev = 'Joshua001' AND TimeMeasure >= 'Apr 11, 2020 11:34:24 PM'
+2020-08-06 13:27:55,967 - sLogger - ERROR - DbConnection[getMedicion]: Ocurrio un error durante la conversion a DataFrame
+2020-08-06 13:27:55,968 - sLogger - ERROR - DbConnection[getMedicion]: Error: ("name 'pd' is not defined",)
+2020-08-06 13:27:55,968 - sLogger - INFO - DataProcess[getMediciones]: Se ha realizado la consulta!
+2020-08-06 13:30:15,903 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-06 13:30:15,903 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-06 13:30:15,904 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-06 13:30:15,904 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-06 13:30:18,485 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-06 13:30:18,485 - sLogger - INFO - DataProcess[getMediciones]: Se consultaran las mediciones para: Joshua001
+2020-08-06 13:30:18,485 - sLogger - INFO - DbConnection[getMedicion]: Se realizara la siguiente Query en la BD
+2020-08-06 13:30:18,485 - sLogger - INFO - DbConnection[getMedicion]: Query: SELECT TimeMeasure, Potency FROM Tbl_DeviceMeasurement WHERE IdDev = 'Joshua001' AND TimeMeasure >= 'Apr 11, 2020 11:34:24 PM'
+2020-08-06 13:31:46,611 - sLogger - INFO - DbConnection[getMedicion]: La consulta sera convertida a un DataFrame
+2020-08-06 13:31:46,611 - sLogger - INFO - DataProcess[getMediciones]: Se ha realizado la consulta!
+2020-08-06 14:40:57,737 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-06 14:40:57,738 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-06 14:40:57,738 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-06 14:40:57,738 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-06 14:41:00,397 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-06 14:41:00,397 - sLogger - INFO - DataProcess[getMediciones]: Se consultaran las mediciones para: Joshua001
+2020-08-06 14:41:00,398 - sLogger - INFO - DbConnection[getMedicion]: Se realizara la siguiente Query en la BD
+2020-08-06 14:41:00,398 - sLogger - INFO - DbConnection[getMedicion]: Query: SELECT TimeMeasure, Potency FROM Tbl_DeviceMeasurement WHERE IdDev = 'Joshua001' AND TimeMeasure >= 'Apr 11, 2020 11:34:24 PM'
+2020-08-06 14:42:27,514 - sLogger - INFO - DbConnection[getMedicion]: La consulta sera convertida a un DataFrame
+2020-08-06 14:42:27,514 - sLogger - INFO - DataProcess[getMediciones]: Se ha realizado la consulta!
+2020-08-06 14:42:27,515 - sLogger - INFO - DataProcess[processData]: Los datos seran procesados!!!
+2020-08-06 14:42:27,517 - sLogger - ERROR - DataProcess[processData]: Ha ocurrido un error durante el proceso
+2020-08-06 14:42:27,518 - sLogger - ERROR - DataProcess[processData]: Error: ('DataFrame constructor not properly called!',)
+2020-08-06 14:50:39,311 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-06 14:50:39,311 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-06 14:50:39,311 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-06 14:50:39,312 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-06 14:50:41,813 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-06 14:50:41,813 - sLogger - INFO - DataProcess[getMediciones]: Se consultaran las mediciones para: Joshua001
+2020-08-06 14:50:41,813 - sLogger - INFO - DbConnection[getMedicion]: Se realizara la siguiente Query en la BD
+2020-08-06 14:50:41,813 - sLogger - INFO - DbConnection[getMedicion]: Query: SELECT TimeMeasure, Potency FROM Tbl_DeviceMeasurement WHERE IdDev = 'Joshua001' AND TimeMeasure >= 'Apr 11, 2020 11:34:24 PM'
+2020-08-06 14:52:08,973 - sLogger - INFO - DbConnection[getMedicion]: La consulta sera convertida a un DataFrame
+2020-08-06 14:52:08,973 - sLogger - INFO - DataProcess[getMediciones]: Se ha realizado la consulta!
+2020-08-06 14:55:02,041 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-06 14:55:02,041 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-06 14:55:02,042 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-06 14:55:02,042 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-06 14:55:04,557 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-06 14:55:04,557 - sLogger - INFO - DataProcess[getMediciones]: Se consultaran las mediciones para: Joshua001
+2020-08-06 14:55:04,557 - sLogger - INFO - DbConnection[getMedicion]: Se realizara la siguiente Query en la BD
+2020-08-06 14:55:04,557 - sLogger - INFO - DbConnection[getMedicion]: Query: SELECT TimeMeasure, Potency FROM Tbl_DeviceMeasurement WHERE IdDev = 'Joshua001' AND TimeMeasure >= 'Apr 11, 2020 11:34:24 PM'
+2020-08-06 14:56:31,965 - sLogger - INFO - DbConnection[getMedicion]: La consulta sera convertida a un DataFrame
+2020-08-06 14:56:31,966 - sLogger - INFO - DataProcess[getMediciones]: Se ha realizado la consulta!
+2020-08-06 14:56:31,966 - sLogger - INFO - DataProcess[processData]: Los datos seran procesados!!!
+2020-08-06 14:56:32,428 - sLogger - INFO - DataProcess[processData]: Los datos han sido procesados
+2020-08-06 14:57:31,549 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-06 14:57:31,550 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-06 14:57:31,550 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-06 14:57:31,550 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-06 14:57:35,151 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-06 14:57:35,151 - sLogger - INFO - DataProcess[getMediciones]: Se consultaran las mediciones para: Joshua001
+2020-08-06 14:57:35,151 - sLogger - INFO - DbConnection[getMedicion]: Se realizara la siguiente Query en la BD
+2020-08-06 14:57:35,152 - sLogger - INFO - DbConnection[getMedicion]: Query: SELECT TimeMeasure, Potency FROM Tbl_DeviceMeasurement WHERE IdDev = 'Joshua001' AND TimeMeasure >= 'Apr 11, 2020 11:34:24 PM'
+2020-08-06 14:59:02,790 - sLogger - INFO - DbConnection[getMedicion]: La consulta sera convertida a un DataFrame
+2020-08-06 14:59:02,791 - sLogger - INFO - DataProcess[getMediciones]: Se ha realizado la consulta!
+2020-08-06 14:59:02,819 - sLogger - INFO - DataProcess[processData]: Los datos seran procesados!!!
+2020-08-06 14:59:03,267 - sLogger - INFO - DataProcess[processData]: Los datos han sido procesados
+2020-08-06 14:59:55,657 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-06 14:59:55,657 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-06 14:59:55,657 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-06 14:59:55,658 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-06 14:59:58,408 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-06 14:59:58,408 - sLogger - INFO - DataProcess[getMediciones]: Se consultaran las mediciones para: Joshua001
+2020-08-06 14:59:58,409 - sLogger - INFO - DbConnection[getMedicion]: Se realizara la siguiente Query en la BD
+2020-08-06 14:59:58,409 - sLogger - INFO - DbConnection[getMedicion]: Query: SELECT TimeMeasure, Potency FROM Tbl_DeviceMeasurement WHERE IdDev = 'Joshua001' AND TimeMeasure >= 'Apr 11, 2020 11:34:24 PM'
+2020-08-06 15:01:25,584 - sLogger - INFO - DbConnection[getMedicion]: La consulta sera convertida a un DataFrame
+2020-08-06 15:01:25,584 - sLogger - INFO - DataProcess[getMediciones]: Se ha realizado la consulta!
+2020-08-06 15:01:25,611 - sLogger - INFO - DataProcess[processData]: Los datos seran procesados!!!
+2020-08-06 15:01:25,611 - sLogger - ERROR - DataProcess[processData]: Ha ocurrido un error durante el proceso
+2020-08-06 15:01:25,612 - sLogger - ERROR - DataProcess[processData]: Error: ("local variable 'dt' referenced before assignment",)
+2020-08-06 15:54:59,146 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-06 15:54:59,146 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-06 15:54:59,146 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-06 15:54:59,146 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-06 15:55:02,576 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-06 15:55:02,576 - sLogger - INFO - DataProcess[getMediciones]: Se consultaran las mediciones para: Joshua001
+2020-08-06 15:55:02,576 - sLogger - INFO - DbConnection[getMedicion]: Se realizara la siguiente Query en la BD
+2020-08-06 15:55:02,576 - sLogger - INFO - DbConnection[getMedicion]: Query: SELECT TimeMeasure, Potency FROM Tbl_DeviceMeasurement WHERE IdDev = 'Joshua001' AND TimeMeasure >= 'Apr 11, 2020 11:34:24 PM'
+2020-08-06 15:56:30,586 - sLogger - INFO - DbConnection[getMedicion]: La consulta sera convertida a un DataFrame
+2020-08-06 15:56:30,586 - sLogger - INFO - DataProcess[getMediciones]: Se ha realizado la consulta!
+2020-08-06 15:56:30,614 - sLogger - INFO - DataProcess[processData]: Los datos seran procesados!!!
+2020-08-06 15:56:31,113 - sLogger - INFO - DataProcess[processData]: Los datos han sido procesados
+2020-08-06 15:58:09,979 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-06 15:58:09,979 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-06 15:58:09,979 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-06 15:58:09,979 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-06 15:58:12,661 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-06 15:58:37,917 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-06 15:58:37,917 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-06 15:58:37,917 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-06 15:58:37,917 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-06 15:58:40,508 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-06 15:58:40,509 - sLogger - INFO - DataProcess[getMediciones]: Se consultaran las mediciones para: Joshua001
+2020-08-06 15:58:40,509 - sLogger - INFO - DbConnection[getMedicion]: Se realizara la siguiente Query en la BD
+2020-08-06 15:58:40,509 - sLogger - INFO - DbConnection[getMedicion]: Query: SELECT TimeMeasure, Potency FROM Tbl_DeviceMeasurement WHERE IdDev = 'Joshua001' AND TimeMeasure >= '2020-03-10 00:00:12' AND TimeMeasure >= '2020-04-10 00:00:12'
+2020-08-06 15:59:13,817 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-06 15:59:13,817 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-06 15:59:13,817 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-06 15:59:13,817 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-06 15:59:16,193 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-06 15:59:16,194 - sLogger - INFO - DataProcess[getMediciones]: Se consultaran las mediciones para: Joshua001
+2020-08-06 15:59:16,194 - sLogger - INFO - DbConnection[getMedicion]: Se realizara la siguiente Query en la BD
+2020-08-06 15:59:16,194 - sLogger - INFO - DbConnection[getMedicion]: Query: SELECT TimeMeasure, Potency FROM Tbl_DeviceMeasurement WHERE IdDev = 'Joshua001' AND TimeMeasure >= '2020-03-10 00:00:12' AND TimeMeasure <= '2020-04-10 00:00:12'
+2020-08-06 16:00:20,030 - sLogger - INFO - DbConnection[getMedicion]: La consulta sera convertida a un DataFrame
+2020-08-06 16:00:20,030 - sLogger - INFO - DataProcess[getMediciones]: Se ha realizado la consulta!
+2020-08-06 16:00:20,058 - sLogger - INFO - DataProcess[processData]: Los datos seran procesados!!!
+2020-08-06 16:00:20,344 - sLogger - INFO - DataProcess[processData]: Los datos han sido procesados
+2020-08-06 19:20:33,294 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-06 19:20:33,294 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-06 19:20:33,295 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-06 19:20:33,295 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-06 19:20:35,594 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-06 19:21:30,804 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-06 19:21:30,805 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-06 19:21:30,805 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-06 19:21:30,805 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-06 19:21:35,479 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-06 19:21:35,479 - sLogger - INFO - DataProcess[getMediciones]: Se consultaran las mediciones para: Joshua001
+2020-08-06 19:21:35,479 - sLogger - INFO - DbConnection[getMedicion]: Se realizara la siguiente Query en la BD
+2020-08-06 19:21:35,480 - sLogger - INFO - DbConnection[getMedicion]: Query: SELECT TimeMeasure, Potency FROM Tbl_DeviceMeasurement WHERE IdDev = 'Joshua001' AND TimeMeasure >= '2020-03-10 00:00:12' AND TimeMeasure <= '2020-04-10 00:00:12'
+2020-08-06 19:22:41,225 - sLogger - INFO - DbConnection[getMedicion]: La consulta sera convertida a un DataFrame
+2020-08-06 19:22:41,225 - sLogger - INFO - DataProcess[getMediciones]: Se ha realizado la consulta!
+2020-08-06 19:22:41,225 - sLogger - INFO - DataProcess[processData]: Los datos seran procesados!!!
+2020-08-06 19:22:41,538 - sLogger - INFO - DataProcess[processData]: Los datos han sido procesados
+2020-08-06 19:24:03,241 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-06 19:24:03,241 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-06 19:24:03,241 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-06 19:24:03,241 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-06 19:24:08,110 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-06 19:24:08,111 - sLogger - INFO - DataProcess[getMediciones]: Se consultaran las mediciones para: Joshua001
+2020-08-06 19:24:08,111 - sLogger - INFO - DbConnection[getMedicion]: Se realizara la siguiente Query en la BD
+2020-08-06 19:24:08,111 - sLogger - INFO - DbConnection[getMedicion]: Query: SELECT TimeMeasure, Potency FROM Tbl_DeviceMeasurement WHERE IdDev = 'Joshua001' AND TimeMeasure >= '2020-03-10 00:00:12' AND TimeMeasure <= '2020-04-10 00:00:12'
+2020-08-06 19:25:12,834 - sLogger - INFO - DbConnection[getMedicion]: La consulta sera convertida a un DataFrame
+2020-08-06 19:25:12,835 - sLogger - INFO - DataProcess[getMediciones]: Se ha realizado la consulta!
+2020-08-06 19:25:12,835 - sLogger - INFO - DataProcess[processData]: Los datos seran procesados!!!
+2020-08-06 19:25:13,169 - sLogger - INFO - DataProcess[processData]: Los datos han sido procesados
+2020-08-06 19:25:13,169 - sLogger - INFO - ARIMA_Model[__init__]: El modelo ARIMA sera creado
+2020-08-06 19:25:13,169 - sLogger - ERROR - ARIMA_Model[__init__]: El modelo ARIMA no pudo ser creado
+2020-08-06 19:25:13,170 - sLogger - ERROR - ARIMA[__init__]: Error: ("name 'Temporabilidad' is not defined",)
+2020-08-06 19:25:13,170 - sLogger - INFO - ARIMA[Train]: Comienza el proceso de entrenamiento
+2020-08-06 19:25:13,173 - sLogger - ERROR - ARIMA[Train]: An error has occur during training & prediction process
+2020-08-06 19:25:13,173 - sLogger - ERROR - ARIMA[Train]: Error: ("name 'Temporabilidad' is not defined",)
+2020-08-06 19:28:12,532 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-06 19:28:12,532 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-06 19:28:12,532 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-06 19:28:12,533 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-06 19:28:14,925 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-06 19:28:14,925 - sLogger - INFO - DataProcess[getMediciones]: Se consultaran las mediciones para: Joshua001
+2020-08-06 19:28:14,925 - sLogger - INFO - DbConnection[getMedicion]: Se realizara la siguiente Query en la BD
+2020-08-06 19:28:14,925 - sLogger - INFO - DbConnection[getMedicion]: Query: SELECT TimeMeasure, Potency FROM Tbl_DeviceMeasurement WHERE IdDev = 'Joshua001' AND TimeMeasure >= '2020-03-10 00:00:12' AND TimeMeasure <= '2020-04-10 00:00:12'
+2020-08-06 19:33:42,546 - sLogger - INFO - DbConnection[getMedicion]: La consulta sera convertida a un DataFrame
+2020-08-06 19:33:42,546 - sLogger - INFO - DataProcess[getMediciones]: Se ha realizado la consulta!
+2020-08-06 19:33:42,546 - sLogger - INFO - DataProcess[processData]: Los datos seran procesados!!!
+2020-08-06 19:33:42,866 - sLogger - INFO - DataProcess[processData]: Los datos han sido procesados
+2020-08-06 19:33:42,866 - sLogger - INFO - ARIMA_Model[__init__]: El modelo ARIMA sera creado
+2020-08-06 19:33:42,866 - sLogger - INFO - ARIMA[Train]: Comienza el proceso de entrenamiento
+2020-08-06 19:33:42,870 - sLogger - INFO - ARIMA[Train]: NewDate: 2020-03-24 11:00:00, lastTime: 2020-03-24 10:00:00
+2020-08-06 19:33:42,885 - sLogger - INFO - ARIMA[Train]: The value: Potency will be trainned. Hasta aqui mi reporte Joquin :)
+2020-08-06 19:33:47,446 - sLogger - INFO - ARIMA[Train]: The value: Potency has been trainned successfully!!!!
+2020-08-06 19:33:47,446 - sLogger - INFO - ARIMA[Train]: The value: Potency will be predicted :O
+2020-08-06 19:33:47,454 - sLogger - INFO - ARIMA[Train]: The vaule: Potency has been predicted successfully!!!!
+2020-08-06 19:37:57,826 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-06 19:37:57,826 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-06 19:37:57,827 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-06 19:37:57,827 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-06 19:38:03,939 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-06 19:38:03,939 - sLogger - INFO - DataProcess[getMediciones]: Se consultaran las mediciones para: Joshua001
+2020-08-06 19:38:03,939 - sLogger - INFO - DbConnection[getMedicion]: Se realizara la siguiente Query en la BD
+2020-08-06 19:38:03,940 - sLogger - INFO - DbConnection[getMedicion]: Query: SELECT TimeMeasure, Potency FROM Tbl_DeviceMeasurement WHERE IdDev = 'Joshua001' AND TimeMeasure >= '2020-03-10 00:00:12' AND TimeMeasure <= '2020-04-10 00:00:12'
+2020-08-06 19:46:19,996 - sLogger - INFO - DbConnection[getMedicion]: La consulta sera convertida a un DataFrame
+2020-08-06 19:46:19,997 - sLogger - INFO - DataProcess[getMediciones]: Se ha realizado la consulta!
+2020-08-06 19:46:19,997 - sLogger - INFO - DataProcess[processData]: Los datos seran procesados!!!
+2020-08-06 19:46:20,310 - sLogger - INFO - DataProcess[processData]: Los datos han sido procesados
+2020-08-06 19:46:20,311 - sLogger - INFO - ARIMA_Model[__init__]: El modelo ARIMA sera creado
+2020-08-06 19:46:20,311 - sLogger - INFO - ARIMA[Train]: Comienza el proceso de entrenamiento
+2020-08-06 19:46:20,315 - sLogger - INFO - ARIMA[Train]: NewDate: 2020-03-24 11:00:00, lastTime: 2020-03-24 10:00:00
+2020-08-06 19:46:20,329 - sLogger - INFO - ARIMA[Train]: The value: Potency will be trainned. Hasta aqui mi reporte Joquin :)
+2020-08-06 19:46:24,778 - sLogger - INFO - ARIMA[Train]: The value: Potency has been trainned successfully!!!!
+2020-08-06 19:46:24,778 - sLogger - INFO - ARIMA[Train]: The value: Potency will be predicted :O
+2020-08-06 19:46:24,786 - sLogger - INFO - ARIMA[Train]: The vaule: Potency has been predicted successfully!!!!
+2020-08-07 11:52:40,646 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-07 11:52:40,646 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-07 11:52:40,646 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-07 11:52:40,647 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-07 11:52:43,067 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-07 11:52:43,068 - sLogger - INFO - DataProcess[getMediciones]: Se consultaran las mediciones para: Joshua001
+2020-08-07 11:52:43,068 - sLogger - INFO - DbConnection[getMedicion]: Se realizara la siguiente Query en la BD
+2020-08-07 11:52:43,068 - sLogger - INFO - DbConnection[getMedicion]: Query: SELECT TimeMeasure, Potency FROM Tbl_DeviceMeasurement WHERE IdDev = 'Joshua001' AND TimeMeasure >= '2020-03-10 00:00:12' AND TimeMeasure <= '2020-04-10 00:00:12'
+2020-08-07 11:58:17,118 - sLogger - INFO - DbConnection[getMedicion]: La consulta sera convertida a un DataFrame
+2020-08-07 11:58:17,118 - sLogger - INFO - DataProcess[getMediciones]: Se ha realizado la consulta!
+2020-08-07 11:58:17,118 - sLogger - INFO - DataProcess[processData]: Los datos seran procesados!!!
+2020-08-07 11:58:17,430 - sLogger - INFO - DataProcess[processData]: Los datos han sido procesados
+2020-08-07 11:58:17,430 - sLogger - INFO - ARIMA_Model[__init__]: El modelo ARIMA sera creado
+2020-08-07 11:58:17,431 - sLogger - INFO - ARIMA[Train]: Comienza el proceso de entrenamiento
+2020-08-07 11:58:17,435 - sLogger - INFO - ARIMA[Train]: NewDate: 2020-03-24 11:00:00, lastTime: 2020-03-24 10:00:00
+2020-08-07 11:58:17,449 - sLogger - INFO - ARIMA[Train]: El valor: Potency Sera entrenado. Hasta aqui mi reporte Joquin :)
+2020-08-07 11:58:21,724 - sLogger - INFO - ARIMA[Train]: El valor: Potency ha sido entrenado exitosamente!!!!
+2020-08-07 11:58:21,724 - sLogger - INFO - ARIMA[Train]: El valor: Potency sera predecido :O
+2020-08-07 11:58:21,732 - sLogger - INFO - ARIMA[Train]: El valor: Potency ha sido predecido exitosamente!!!!
+2020-08-07 11:59:10,328 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-07 11:59:10,328 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-07 11:59:10,328 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-07 11:59:10,328 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-07 11:59:12,626 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-07 11:59:12,626 - sLogger - INFO - DataProcess[getMediciones]: Se consultaran las mediciones para: Joshua001
+2020-08-07 11:59:12,627 - sLogger - INFO - DbConnection[getMedicion]: Se realizara la siguiente Query en la BD
+2020-08-07 11:59:12,627 - sLogger - INFO - DbConnection[getMedicion]: Query: SELECT TimeMeasure, Potency FROM Tbl_DeviceMeasurement WHERE IdDev = 'Joshua001' AND TimeMeasure >= '2020-03-15 00:00:00' AND TimeMeasure <= '2020-03-16 00:00:00'
+2020-08-07 11:59:54,387 - sLogger - INFO - DbConnection[getMedicion]: La consulta sera convertida a un DataFrame
+2020-08-07 11:59:54,387 - sLogger - INFO - DataProcess[getMediciones]: Se ha realizado la consulta!
+2020-08-07 11:59:54,387 - sLogger - INFO - DataProcess[processData]: Los datos seran procesados!!!
+2020-08-07 11:59:54,422 - sLogger - INFO - DataProcess[processData]: Los datos han sido procesados
+2020-08-07 11:59:54,422 - sLogger - INFO - ARIMA_Model[__init__]: El modelo ARIMA sera creado
+2020-08-07 11:59:54,422 - sLogger - INFO - ARIMA[Train]: Comienza el proceso de entrenamiento
+2020-08-07 11:59:54,425 - sLogger - INFO - ARIMA[Train]: NewDate: 2020-03-16 01:00:00, lastTime: 2020-03-16 00:00:00
+2020-08-07 11:59:54,440 - sLogger - INFO - ARIMA[Train]: El valor: Potency Sera entrenado. Hasta aqui mi reporte Joquin :)
+2020-08-07 11:59:55,547 - sLogger - INFO - ARIMA[Train]: El valor: Potency ha sido entrenado exitosamente!!!!
+2020-08-07 11:59:55,547 - sLogger - INFO - ARIMA[Train]: El valor: Potency sera predecido :O
+2020-08-07 11:59:55,552 - sLogger - INFO - ARIMA[Train]: El valor: Potency ha sido predecido exitosamente!!!!
+2020-08-07 12:06:09,555 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-07 12:06:09,555 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-07 12:06:09,556 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-07 12:06:09,556 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-07 12:06:11,903 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-07 12:06:11,903 - sLogger - INFO - DataProcess[getMediciones]: Se consultaran las mediciones para: Joshua001
+2020-08-07 12:06:11,904 - sLogger - INFO - DbConnection[getMedicion]: Se realizara la siguiente Query en la BD
+2020-08-07 12:06:11,904 - sLogger - INFO - DbConnection[getMedicion]: Query: SELECT TimeMeasure, Potency FROM Tbl_DeviceMeasurement WHERE IdDev = 'Joshua001' AND TimeMeasure >= '2020-03-15 00:00:00' AND TimeMeasure <= '2020-03-16 00:00:00'
+2020-08-07 12:06:59,710 - sLogger - INFO - DbConnection[getMedicion]: La consulta sera convertida a un DataFrame
+2020-08-07 12:06:59,710 - sLogger - INFO - DataProcess[getMediciones]: Se ha realizado la consulta!
+2020-08-07 12:06:59,710 - sLogger - INFO - DataProcess[processData]: Los datos seran procesados!!!
+2020-08-07 12:06:59,746 - sLogger - INFO - DataProcess[processData]: Los datos han sido procesados
+2020-08-07 12:06:59,767 - sLogger - INFO - SVR_Model[__init__]: El modelo SVR sera creado
+2020-08-07 12:06:59,767 - sLogger - ERROR - SVR_Model[__init__]: El modelo SVR no pudo ser creado
+2020-08-07 12:06:59,767 - sLogger - ERROR - SVR_Model[__init__]: Error: ("name 'Temporabilidad' is not defined",)
+2020-08-07 12:07:58,113 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-07 12:07:58,113 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-07 12:07:58,114 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-07 12:07:58,114 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-07 12:08:00,528 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-07 12:08:00,529 - sLogger - INFO - DataProcess[getMediciones]: Se consultaran las mediciones para: Joshua001
+2020-08-07 12:08:00,529 - sLogger - INFO - DbConnection[getMedicion]: Se realizara la siguiente Query en la BD
+2020-08-07 12:08:00,529 - sLogger - INFO - DbConnection[getMedicion]: Query: SELECT TimeMeasure, Potency FROM Tbl_DeviceMeasurement WHERE IdDev = 'Joshua001' AND TimeMeasure >= '2020-03-15 00:00:00' AND TimeMeasure <= '2020-03-16 00:00:00'
+2020-08-07 12:08:47,334 - sLogger - INFO - DbConnection[getMedicion]: La consulta sera convertida a un DataFrame
+2020-08-07 12:08:47,334 - sLogger - INFO - DataProcess[getMediciones]: Se ha realizado la consulta!
+2020-08-07 12:08:47,334 - sLogger - INFO - DataProcess[processData]: Los datos seran procesados!!!
+2020-08-07 12:08:47,371 - sLogger - INFO - DataProcess[processData]: Los datos han sido procesados
+2020-08-07 12:08:47,391 - sLogger - INFO - SVR_Model[__init__]: El modelo SVR sera creado
+2020-08-07 12:08:47,391 - sLogger - ERROR - SVR_Model[__init__]: El modelo SVR no pudo ser creado
+2020-08-07 12:08:47,392 - sLogger - ERROR - SVR_Model[__init__]: Error: ("name 'Temporabilidad' is not defined",)
+2020-08-07 12:10:30,235 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-07 12:10:30,235 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-07 12:10:30,235 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-07 12:10:30,235 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-07 12:10:33,434 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-07 12:10:33,434 - sLogger - INFO - DataProcess[getMediciones]: Se consultaran las mediciones para: Joshua001
+2020-08-07 12:10:33,435 - sLogger - INFO - DbConnection[getMedicion]: Se realizara la siguiente Query en la BD
+2020-08-07 12:10:33,435 - sLogger - INFO - DbConnection[getMedicion]: Query: SELECT TimeMeasure, Potency FROM Tbl_DeviceMeasurement WHERE IdDev = 'Joshua001' AND TimeMeasure >= '2020-03-15 00:00:00' AND TimeMeasure <= '2020-03-16 00:00:00'
+2020-08-07 12:11:19,011 - sLogger - INFO - DbConnection[getMedicion]: La consulta sera convertida a un DataFrame
+2020-08-07 12:11:19,011 - sLogger - INFO - DataProcess[getMediciones]: Se ha realizado la consulta!
+2020-08-07 12:11:19,011 - sLogger - INFO - DataProcess[processData]: Los datos seran procesados!!!
+2020-08-07 12:11:19,047 - sLogger - INFO - DataProcess[processData]: Los datos han sido procesados
+2020-08-07 12:11:19,067 - sLogger - INFO - SVR_Model[__init__]: El modelo SVR sera creado
+2020-08-07 12:11:41,025 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-07 12:11:41,025 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-07 12:11:41,025 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-07 12:11:41,025 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-07 12:11:43,366 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-07 12:11:43,366 - sLogger - INFO - DataProcess[getMediciones]: Se consultaran las mediciones para: Joshua001
+2020-08-07 12:11:43,367 - sLogger - INFO - DbConnection[getMedicion]: Se realizara la siguiente Query en la BD
+2020-08-07 12:11:43,367 - sLogger - INFO - DbConnection[getMedicion]: Query: SELECT TimeMeasure, Potency FROM Tbl_DeviceMeasurement WHERE IdDev = 'Joshua001' AND TimeMeasure >= '2020-03-15 00:00:00' AND TimeMeasure <= '2020-03-16 00:00:00'
+2020-08-07 12:12:33,353 - sLogger - INFO - DbConnection[getMedicion]: La consulta sera convertida a un DataFrame
+2020-08-07 12:12:33,353 - sLogger - INFO - DataProcess[getMediciones]: Se ha realizado la consulta!
+2020-08-07 12:12:33,353 - sLogger - INFO - DataProcess[processData]: Los datos seran procesados!!!
+2020-08-07 12:12:33,390 - sLogger - INFO - DataProcess[processData]: Los datos han sido procesados
+2020-08-07 12:12:33,412 - sLogger - INFO - SVR_Model[__init__]: El modelo SVR sera creado
+2020-08-07 12:36:47,336 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-07 12:36:47,337 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-07 12:36:47,337 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-07 12:36:47,337 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-07 12:36:49,727 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-07 12:36:49,728 - sLogger - INFO - DataProcess[getMediciones]: Se consultaran las mediciones para: Joshua001
+2020-08-07 12:36:49,729 - sLogger - INFO - DbConnection[getMedicion]: Se realizara la siguiente Query en la BD
+2020-08-07 12:36:49,729 - sLogger - INFO - DbConnection[getMedicion]: Query: SELECT TimeMeasure, Potency FROM Tbl_DeviceMeasurement WHERE IdDev = 'Joshua001' AND TimeMeasure >= '2020-03-15 00:00:00' AND TimeMeasure <= '2020-03-16 00:00:00'
+2020-08-07 12:37:30,298 - sLogger - INFO - DbConnection[getMedicion]: La consulta sera convertida a un DataFrame
+2020-08-07 12:37:30,298 - sLogger - INFO - DataProcess[getMediciones]: Se ha realizado la consulta!
+2020-08-07 12:37:30,298 - sLogger - INFO - DataProcess[processData]: Los datos seran procesados!!!
+2020-08-07 12:37:30,333 - sLogger - INFO - DataProcess[processData]: Los datos han sido procesados
+2020-08-07 12:37:30,354 - sLogger - INFO - SVR_Model[__init__]: El modelo SVR sera creado
+2020-08-07 12:37:30,354 - sLogger - INFO - SVR_Model[__split_timeSeries]: El dataFrame tendra un 70% de datos de Entrenamiento
+2020-08-07 12:38:25,778 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-07 12:38:25,778 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-07 12:38:25,778 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-07 12:38:25,779 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-07 12:38:28,286 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-07 12:38:28,287 - sLogger - INFO - DataProcess[getMediciones]: Se consultaran las mediciones para: Joshua001
+2020-08-07 12:38:28,287 - sLogger - INFO - DbConnection[getMedicion]: Se realizara la siguiente Query en la BD
+2020-08-07 12:38:28,287 - sLogger - INFO - DbConnection[getMedicion]: Query: SELECT TimeMeasure, Potency FROM Tbl_DeviceMeasurement WHERE IdDev = 'Joshua001' AND TimeMeasure >= '2020-03-15 00:00:00' AND TimeMeasure <= '2020-03-16 00:00:00'
+2020-08-07 12:39:12,605 - sLogger - INFO - DbConnection[getMedicion]: La consulta sera convertida a un DataFrame
+2020-08-07 12:39:12,606 - sLogger - INFO - DataProcess[getMediciones]: Se ha realizado la consulta!
+2020-08-07 12:39:12,606 - sLogger - INFO - DataProcess[processData]: Los datos seran procesados!!!
+2020-08-07 12:39:12,640 - sLogger - INFO - DataProcess[processData]: Los datos han sido procesados
+2020-08-07 12:39:12,660 - sLogger - INFO - SVR_Model[__init__]: El modelo SVR sera creado
+2020-08-07 12:39:12,660 - sLogger - INFO - SVR_Model[__split_timeSeries]: El dataFrame tendra un 70% de datos de Entrenamiento
+2020-08-07 12:42:36,132 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-07 12:42:36,133 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-07 12:42:36,133 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-07 12:42:36,133 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-07 12:42:38,555 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-07 12:42:38,555 - sLogger - INFO - DataProcess[getMediciones]: Se consultaran las mediciones para: Joshua001
+2020-08-07 12:42:38,555 - sLogger - INFO - DbConnection[getMedicion]: Se realizara la siguiente Query en la BD
+2020-08-07 12:42:38,555 - sLogger - INFO - DbConnection[getMedicion]: Query: SELECT TimeMeasure, Potency FROM Tbl_DeviceMeasurement WHERE IdDev = 'Joshua001' AND TimeMeasure >= '2020-03-15 00:00:00' AND TimeMeasure <= '2020-03-16 00:00:00'
+2020-08-07 12:43:23,512 - sLogger - INFO - DbConnection[getMedicion]: La consulta sera convertida a un DataFrame
+2020-08-07 12:43:23,512 - sLogger - INFO - DataProcess[getMediciones]: Se ha realizado la consulta!
+2020-08-07 12:43:23,512 - sLogger - INFO - DataProcess[processData]: Los datos seran procesados!!!
+2020-08-07 12:43:23,548 - sLogger - INFO - DataProcess[processData]: Los datos han sido procesados
+2020-08-07 12:43:23,569 - sLogger - INFO - SVR_Model[__init__]: El modelo SVR sera creado
+2020-08-07 12:43:23,569 - sLogger - INFO - SVR_Model[__split_timeSeries]: El dataFrame tendra un 70% de datos de Entrenamiento
+2020-08-07 12:43:23,572 - sLogger - INFO - SVR_Model[series_to_supervised]: El dataset se convierte aun problema de aprendizaje supervisado
+2020-08-07 12:48:55,393 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-07 12:48:55,393 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-07 12:48:55,393 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-07 12:48:55,394 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-07 12:48:57,699 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-07 12:48:57,700 - sLogger - INFO - DataProcess[getMediciones]: Se consultaran las mediciones para: Joshua001
+2020-08-07 12:48:57,700 - sLogger - INFO - DbConnection[getMedicion]: Se realizara la siguiente Query en la BD
+2020-08-07 12:48:57,700 - sLogger - INFO - DbConnection[getMedicion]: Query: SELECT TimeMeasure, Potency FROM Tbl_DeviceMeasurement WHERE IdDev = 'Joshua001' AND TimeMeasure >= '2020-03-15 00:00:00' AND TimeMeasure <= '2020-03-16 00:00:00'
+2020-08-07 12:49:42,997 - sLogger - INFO - DbConnection[getMedicion]: La consulta sera convertida a un DataFrame
+2020-08-07 12:49:42,997 - sLogger - INFO - DataProcess[getMediciones]: Se ha realizado la consulta!
+2020-08-07 12:49:42,997 - sLogger - INFO - DataProcess[processData]: Los datos seran procesados!!!
+2020-08-07 12:49:43,032 - sLogger - INFO - DataProcess[processData]: Los datos han sido procesados
+2020-08-07 12:49:43,054 - sLogger - INFO - SVR_Model[__init__]: El modelo SVR sera creado
+2020-08-07 12:49:43,054 - sLogger - INFO - SVR_Model[__split_timeSeries]: El dataFrame tendra un 70% de datos de Entrenamiento
+2020-08-07 12:49:43,057 - sLogger - INFO - SVR_Model[series_to_supervised]: El dataset se convierte aun problema de aprendizaje supervisado
+2020-08-07 12:52:04,947 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-07 12:52:04,948 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-07 12:52:04,948 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-07 12:52:04,948 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-07 12:52:07,377 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-07 12:52:07,377 - sLogger - INFO - DataProcess[getMediciones]: Se consultaran las mediciones para: Joshua001
+2020-08-07 12:52:07,377 - sLogger - INFO - DbConnection[getMedicion]: Se realizara la siguiente Query en la BD
+2020-08-07 12:52:07,377 - sLogger - INFO - DbConnection[getMedicion]: Query: SELECT TimeMeasure, Potency FROM Tbl_DeviceMeasurement WHERE IdDev = 'Joshua001' AND TimeMeasure >= '2020-03-15 00:00:00' AND TimeMeasure <= '2020-03-16 00:00:00'
+2020-08-07 12:52:47,039 - sLogger - INFO - DbConnection[getMedicion]: La consulta sera convertida a un DataFrame
+2020-08-07 12:52:47,039 - sLogger - INFO - DataProcess[getMediciones]: Se ha realizado la consulta!
+2020-08-07 12:52:47,039 - sLogger - INFO - DataProcess[processData]: Los datos seran procesados!!!
+2020-08-07 12:52:47,074 - sLogger - INFO - DataProcess[processData]: Los datos han sido procesados
+2020-08-07 12:52:47,094 - sLogger - INFO - SVR_Model[__init__]: El modelo SVR sera creado
+2020-08-07 12:52:47,095 - sLogger - INFO - SVR_Model[__split_timeSeries]: El dataFrame tendra un 70% de datos de Entrenamiento
+2020-08-07 12:52:47,097 - sLogger - INFO - SVR_Model[series_to_supervised]: El dataset se convierte aun problema de aprendizaje supervisado
+2020-08-07 13:04:23,552 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-07 13:04:23,553 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-07 13:04:23,553 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-07 13:04:23,553 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-07 13:04:25,893 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-07 13:04:25,894 - sLogger - INFO - DataProcess[getMediciones]: Se consultaran las mediciones para: Joshua001
+2020-08-07 13:04:25,894 - sLogger - INFO - DbConnection[getMedicion]: Se realizara la siguiente Query en la BD
+2020-08-07 13:04:25,894 - sLogger - INFO - DbConnection[getMedicion]: Query: SELECT TimeMeasure, Potency FROM Tbl_DeviceMeasurement WHERE IdDev = 'Joshua001' AND TimeMeasure >= '2020-03-15 00:00:00' AND TimeMeasure <= '2020-03-16 00:00:00'
+2020-08-07 13:05:14,883 - sLogger - INFO - DbConnection[getMedicion]: La consulta sera convertida a un DataFrame
+2020-08-07 13:05:14,883 - sLogger - INFO - DataProcess[getMediciones]: Se ha realizado la consulta!
+2020-08-07 13:05:14,884 - sLogger - INFO - DataProcess[processData]: Los datos seran procesados!!!
+2020-08-07 13:05:14,919 - sLogger - INFO - DataProcess[processData]: Los datos han sido procesados
+2020-08-07 13:05:14,941 - sLogger - INFO - SVR_Model[__init__]: El modelo SVR sera creado
+2020-08-07 13:05:14,941 - sLogger - INFO - SVR_Model[__split_timeSeries]: El dataFrame tendra un 70% de datos de Entrenamiento
+2020-08-07 13:05:14,944 - sLogger - INFO - SVR_Model[series_to_supervised]: El dataset se convierte aun problema de aprendizaje supervisado
+2020-08-07 15:08:07,560 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-07 15:08:07,560 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-07 15:08:07,560 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-07 15:08:07,561 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-07 15:08:09,964 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-07 15:08:09,965 - sLogger - INFO - DataProcess[getMediciones]: Se consultaran las mediciones para: Joshua001
+2020-08-07 15:08:09,965 - sLogger - INFO - DbConnection[getMedicion]: Se realizara la siguiente Query en la BD
+2020-08-07 15:08:09,965 - sLogger - INFO - DbConnection[getMedicion]: Query: SELECT TimeMeasure, Potency FROM Tbl_DeviceMeasurement WHERE IdDev = 'Joshua001' AND TimeMeasure >= '2020-03-15 00:00:00' AND TimeMeasure <= '2020-03-16 00:00:00'
+2020-08-07 15:08:47,752 - sLogger - INFO - DbConnection[getMedicion]: La consulta sera convertida a un DataFrame
+2020-08-07 15:08:47,752 - sLogger - INFO - DataProcess[getMediciones]: Se ha realizado la consulta!
+2020-08-07 15:08:47,753 - sLogger - INFO - DataProcess[processData]: Los datos seran procesados!!!
+2020-08-07 15:08:47,788 - sLogger - INFO - DataProcess[processData]: Los datos han sido procesados
+2020-08-07 15:08:47,807 - sLogger - INFO - SVR_Model[__init__]: El modelo SVR sera creado
+2020-08-07 15:08:47,808 - sLogger - INFO - SVR_Model[__split_timeSeries]: El dataFrame tendra un 70% de datos de Entrenamiento
+2020-08-07 15:08:47,810 - sLogger - INFO - SVR_Model[series_to_supervised]: El dataset se convierte aun problema de aprendizaje supervisado
+2020-08-07 15:09:45,303 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-07 15:09:45,303 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-07 15:09:45,303 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-07 15:09:45,304 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-07 15:09:48,206 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-07 15:09:48,206 - sLogger - INFO - DataProcess[getMediciones]: Se consultaran las mediciones para: Joshua001
+2020-08-07 15:09:48,206 - sLogger - INFO - DbConnection[getMedicion]: Se realizara la siguiente Query en la BD
+2020-08-07 15:09:48,207 - sLogger - INFO - DbConnection[getMedicion]: Query: SELECT TimeMeasure, Potency FROM Tbl_DeviceMeasurement WHERE IdDev = 'Joshua001' AND TimeMeasure >= '2020-03-15 00:00:00' AND TimeMeasure <= '2020-03-16 00:00:00'
+2020-08-07 15:10:30,910 - sLogger - INFO - DbConnection[getMedicion]: La consulta sera convertida a un DataFrame
+2020-08-07 15:10:30,910 - sLogger - INFO - DataProcess[getMediciones]: Se ha realizado la consulta!
+2020-08-07 15:10:30,910 - sLogger - INFO - DataProcess[processData]: Los datos seran procesados!!!
+2020-08-07 15:10:30,946 - sLogger - INFO - DataProcess[processData]: Los datos han sido procesados
+2020-08-07 15:10:30,966 - sLogger - INFO - SVR_Model[__init__]: El modelo SVR sera creado
+2020-08-07 15:10:30,966 - sLogger - INFO - SVR_Model[__split_timeSeries]: El dataFrame tendra un 70% de datos de Entrenamiento
+2020-08-07 15:10:30,968 - sLogger - INFO - SVR_Model[series_to_supervised]: El dataset se convierte aun problema de aprendizaje supervisado
+2020-08-07 15:22:54,668 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-07 15:22:54,668 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-07 15:22:54,668 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-07 15:22:54,668 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-07 15:22:57,029 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-07 15:22:57,030 - sLogger - INFO - DataProcess[getMediciones]: Se consultaran las mediciones para: Joshua001
+2020-08-07 15:22:57,030 - sLogger - INFO - DbConnection[getMedicion]: Se realizara la siguiente Query en la BD
+2020-08-07 15:22:57,030 - sLogger - INFO - DbConnection[getMedicion]: Query: SELECT TimeMeasure, Potency FROM Tbl_DeviceMeasurement WHERE IdDev = 'Joshua001' AND TimeMeasure >= '2020-03-15 00:00:00' AND TimeMeasure <= '2020-03-16 00:00:00'
+2020-08-07 15:23:41,557 - sLogger - INFO - DbConnection[getMedicion]: La consulta sera convertida a un DataFrame
+2020-08-07 15:23:41,558 - sLogger - INFO - DataProcess[getMediciones]: Se ha realizado la consulta!
+2020-08-07 15:23:41,558 - sLogger - INFO - DataProcess[processData]: Los datos seran procesados!!!
+2020-08-07 15:23:41,594 - sLogger - INFO - DataProcess[processData]: Los datos han sido procesados
+2020-08-07 15:23:41,615 - sLogger - INFO - SVR_Model[__init__]: El modelo SVR sera creado
+2020-08-07 15:23:41,615 - sLogger - INFO - SVR_Model[__split_timeSeries]: El dataFrame tendra un 70% de datos de Entrenamiento
+2020-08-07 15:23:41,617 - sLogger - INFO - SVR_Model[series_to_supervised]: El dataset se convierte aun problema de aprendizaje supervisado
+2020-08-07 15:25:00,611 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-07 15:25:00,612 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-07 15:25:00,612 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-07 15:25:00,612 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-07 15:25:03,241 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-07 15:25:03,241 - sLogger - INFO - DataProcess[getMediciones]: Se consultaran las mediciones para: Joshua001
+2020-08-07 15:25:03,241 - sLogger - INFO - DbConnection[getMedicion]: Se realizara la siguiente Query en la BD
+2020-08-07 15:25:03,241 - sLogger - INFO - DbConnection[getMedicion]: Query: SELECT TimeMeasure, Potency FROM Tbl_DeviceMeasurement WHERE IdDev = 'Joshua001' AND TimeMeasure >= '2020-03-15 00:00:00' AND TimeMeasure <= '2020-03-16 00:00:00'
+2020-08-07 15:25:50,068 - sLogger - INFO - DbConnection[getMedicion]: La consulta sera convertida a un DataFrame
+2020-08-07 15:25:50,069 - sLogger - INFO - DataProcess[getMediciones]: Se ha realizado la consulta!
+2020-08-07 15:25:50,069 - sLogger - INFO - DataProcess[processData]: Los datos seran procesados!!!
+2020-08-07 15:25:50,104 - sLogger - INFO - DataProcess[processData]: Los datos han sido procesados
+2020-08-07 15:25:50,124 - sLogger - INFO - SVR_Model[__init__]: El modelo SVR sera creado
+2020-08-07 15:25:50,124 - sLogger - INFO - SVR_Model[__split_timeSeries]: El dataFrame tendra un 70% de datos de Entrenamiento
+2020-08-07 15:25:50,126 - sLogger - INFO - SVR_Model[series_to_supervised]: El dataset se convierte aun problema de aprendizaje supervisado
+2020-08-07 15:27:25,666 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-07 15:27:25,667 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-07 15:27:25,667 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-07 15:27:25,667 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-07 15:27:28,585 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-07 15:27:28,585 - sLogger - INFO - DataProcess[getMediciones]: Se consultaran las mediciones para: Joshua001
+2020-08-07 15:27:28,585 - sLogger - INFO - DbConnection[getMedicion]: Se realizara la siguiente Query en la BD
+2020-08-07 15:27:28,585 - sLogger - INFO - DbConnection[getMedicion]: Query: SELECT TimeMeasure, Potency FROM Tbl_DeviceMeasurement WHERE IdDev = 'Joshua001' AND TimeMeasure >= '2020-03-15 00:00:00' AND TimeMeasure <= '2020-03-16 00:00:00'
+2020-08-07 15:28:10,730 - sLogger - INFO - DbConnection[getMedicion]: La consulta sera convertida a un DataFrame
+2020-08-07 15:28:10,730 - sLogger - INFO - DataProcess[getMediciones]: Se ha realizado la consulta!
+2020-08-07 15:28:10,730 - sLogger - INFO - DataProcess[processData]: Los datos seran procesados!!!
+2020-08-07 15:28:10,765 - sLogger - INFO - DataProcess[processData]: Los datos han sido procesados
+2020-08-07 15:28:10,785 - sLogger - INFO - SVR_Model[__init__]: El modelo SVR sera creado
+2020-08-07 15:28:10,785 - sLogger - INFO - SVR_Model[__split_timeSeries]: El dataFrame tendra un 50% de datos de Entrenamiento
+2020-08-07 15:28:10,787 - sLogger - INFO - SVR_Model[series_to_supervised]: El dataset se convierte aun problema de aprendizaje supervisado
+2020-08-07 15:28:32,594 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-07 15:28:32,595 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-07 15:28:32,595 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-07 15:28:32,595 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-07 15:28:35,105 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-07 15:28:35,106 - sLogger - INFO - DataProcess[getMediciones]: Se consultaran las mediciones para: Joshua001
+2020-08-07 15:28:35,106 - sLogger - INFO - DbConnection[getMedicion]: Se realizara la siguiente Query en la BD
+2020-08-07 15:28:35,106 - sLogger - INFO - DbConnection[getMedicion]: Query: SELECT TimeMeasure, Potency FROM Tbl_DeviceMeasurement WHERE IdDev = 'Joshua001' AND TimeMeasure >= '2020-03-15 00:00:00' AND TimeMeasure <= '2020-03-16 00:00:00'
+2020-08-07 15:29:21,596 - sLogger - INFO - DbConnection[getMedicion]: La consulta sera convertida a un DataFrame
+2020-08-07 15:29:21,596 - sLogger - INFO - DataProcess[getMediciones]: Se ha realizado la consulta!
+2020-08-07 15:29:21,596 - sLogger - INFO - DataProcess[processData]: Los datos seran procesados!!!
+2020-08-07 15:29:21,631 - sLogger - INFO - DataProcess[processData]: Los datos han sido procesados
+2020-08-07 15:29:21,651 - sLogger - INFO - SVR_Model[__init__]: El modelo SVR sera creado
+2020-08-07 15:29:21,651 - sLogger - INFO - SVR_Model[__split_timeSeries]: El dataFrame tendra un 90% de datos de Entrenamiento
+2020-08-07 15:29:21,654 - sLogger - INFO - SVR_Model[series_to_supervised]: El dataset se convierte aun problema de aprendizaje supervisado
+2020-08-07 15:31:21,512 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-07 15:31:21,512 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-07 15:31:21,512 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-07 15:31:21,513 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-07 15:31:23,954 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-07 15:31:23,955 - sLogger - INFO - DataProcess[getMediciones]: Se consultaran las mediciones para: Joshua001
+2020-08-07 15:31:23,955 - sLogger - INFO - DbConnection[getMedicion]: Se realizara la siguiente Query en la BD
+2020-08-07 15:31:23,955 - sLogger - INFO - DbConnection[getMedicion]: Query: SELECT TimeMeasure, Potency FROM Tbl_DeviceMeasurement WHERE IdDev = 'Joshua001' AND TimeMeasure >= '2020-03-15 00:00:00' AND TimeMeasure <= '2020-03-16 00:00:00'
+2020-08-07 15:32:06,886 - sLogger - INFO - DbConnection[getMedicion]: La consulta sera convertida a un DataFrame
+2020-08-07 15:32:06,887 - sLogger - INFO - DataProcess[getMediciones]: Se ha realizado la consulta!
+2020-08-07 15:32:06,887 - sLogger - INFO - DataProcess[processData]: Los datos seran procesados!!!
+2020-08-07 15:32:06,919 - sLogger - INFO - DataProcess[processData]: Los datos han sido procesados
+2020-08-07 15:32:06,937 - sLogger - INFO - SVR_Model[__init__]: El modelo SVR sera creado
+2020-08-07 15:32:06,938 - sLogger - INFO - SVR_Model[__split_timeSeries]: El dataFrame tendra un 90% de datos de Entrenamiento
+2020-08-07 15:32:06,940 - sLogger - INFO - SVR_Model[series_to_supervised]: El dataset se convierte aun problema de aprendizaje supervisado
+2020-08-07 18:57:46,658 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-07 18:57:46,658 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-07 18:57:46,658 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-07 18:57:46,659 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-07 18:57:49,018 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-07 18:57:49,018 - sLogger - INFO - DataProcess[getMediciones]: Se consultaran las mediciones para: Joshua001
+2020-08-07 18:57:49,019 - sLogger - INFO - DbConnection[getMedicion]: Se realizara la siguiente Query en la BD
+2020-08-07 18:57:49,019 - sLogger - INFO - DbConnection[getMedicion]: Query: SELECT TimeMeasure, Potency FROM Tbl_DeviceMeasurement WHERE IdDev = 'Joshua001' AND TimeMeasure >= '2020-03-15 00:00:00' AND TimeMeasure <= '2020-03-16 00:00:00'
+2020-08-07 18:58:33,062 - sLogger - INFO - DbConnection[getMedicion]: La consulta sera convertida a un DataFrame
+2020-08-07 18:58:33,062 - sLogger - INFO - DataProcess[getMediciones]: Se ha realizado la consulta!
+2020-08-07 18:58:33,062 - sLogger - INFO - DataProcess[processData]: Los datos seran procesados!!!
+2020-08-07 18:58:33,099 - sLogger - INFO - DataProcess[processData]: Los datos han sido procesados
+2020-08-07 18:58:33,121 - sLogger - INFO - SVR_Model[__init__]: El modelo SVR sera creado
+2020-08-07 18:58:33,121 - sLogger - INFO - SVR_Model[__split_timeSeries]: El dataFrame tendra un 90% de datos de Entrenamiento
+2020-08-07 18:58:33,124 - sLogger - INFO - SVR_Model[series_to_supervised]: El dataset se convierte aun problema de aprendizaje supervisado
+2020-08-07 18:58:33,171 - sLogger - INFO - SVR_Model[__steps_back]: Se toman pasos anteriores
+2020-08-07 19:30:37,530 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-07 19:30:37,530 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-07 19:30:37,530 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-07 19:30:37,531 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-07 19:30:39,905 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-07 19:30:39,906 - sLogger - INFO - DataProcess[getMediciones]: Se consultaran las mediciones para: Joshua001
+2020-08-07 19:30:39,906 - sLogger - INFO - DbConnection[getMedicion]: Se realizara la siguiente Query en la BD
+2020-08-07 19:30:39,906 - sLogger - INFO - DbConnection[getMedicion]: Query: SELECT TimeMeasure, Potency FROM Tbl_DeviceMeasurement WHERE IdDev = 'Joshua001' AND TimeMeasure >= '2020-03-15 00:00:00' AND TimeMeasure <= '2020-03-16 00:00:00'
+2020-08-07 19:31:20,639 - sLogger - INFO - DbConnection[getMedicion]: La consulta sera convertida a un DataFrame
+2020-08-07 19:31:20,640 - sLogger - INFO - DataProcess[getMediciones]: Se ha realizado la consulta!
+2020-08-07 19:31:20,640 - sLogger - INFO - DataProcess[processData]: Los datos seran procesados!!!
+2020-08-07 19:31:20,675 - sLogger - INFO - DataProcess[processData]: Los datos han sido procesados
+2020-08-07 19:31:20,695 - sLogger - INFO - SVR_Model[__init__]: El modelo SVR sera creado
+2020-08-07 19:31:20,695 - sLogger - ERROR - SVR_Model[__init__]: El modelo SVR no pudo ser creado
+2020-08-07 19:31:20,696 - sLogger - ERROR - SVR_Model[__init__]: Error: ("name 'contex' is not defined",)
+2020-08-07 19:33:15,268 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-07 19:33:15,268 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-07 19:33:15,269 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-07 19:33:15,269 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-07 19:33:17,667 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-07 19:33:17,667 - sLogger - INFO - DataProcess[getMediciones]: Se consultaran las mediciones para: Joshua001
+2020-08-07 19:33:17,667 - sLogger - INFO - DbConnection[getMedicion]: Se realizara la siguiente Query en la BD
+2020-08-07 19:33:17,668 - sLogger - INFO - DbConnection[getMedicion]: Query: SELECT TimeMeasure, Potency FROM Tbl_DeviceMeasurement WHERE IdDev = 'Joshua001' AND TimeMeasure >= '2020-03-15 00:00:00' AND TimeMeasure <= '2020-03-16 00:00:00'
+2020-08-07 19:34:46,334 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-07 19:34:46,335 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-07 19:34:46,335 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-07 19:34:46,335 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-07 19:34:48,991 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-07 19:34:48,991 - sLogger - INFO - DataProcess[getMediciones]: Se consultaran las mediciones para: Joshua001
+2020-08-07 19:34:48,991 - sLogger - INFO - DbConnection[getMedicion]: Se realizara la siguiente Query en la BD
+2020-08-07 19:34:48,991 - sLogger - INFO - DbConnection[getMedicion]: Query: SELECT TimeMeasure, Potency FROM Tbl_DeviceMeasurement WHERE IdDev = 'Joshua001' AND TimeMeasure >= '2020-03-15 00:00:00' AND TimeMeasure <= '2020-03-16 00:00:00'
+2020-08-07 19:35:34,478 - sLogger - INFO - DbConnection[getMedicion]: La consulta sera convertida a un DataFrame
+2020-08-07 19:35:34,478 - sLogger - INFO - DataProcess[getMediciones]: Se ha realizado la consulta!
+2020-08-07 19:35:34,478 - sLogger - INFO - DataProcess[processData]: Los datos seran procesados!!!
+2020-08-07 19:35:34,512 - sLogger - INFO - DataProcess[processData]: Los datos han sido procesados
+2020-08-07 19:35:34,531 - sLogger - INFO - SVR_Model[__init__]: El modelo SVR sera creado
+2020-08-07 19:35:34,532 - sLogger - INFO - SVR_Model[__split_timeSeries]: El dataFrame tendra un 90% de datos de Entrenamiento
+2020-08-07 19:35:34,532 - sLogger - INFO - SVR_Model[series_to_supervised]: El dataset se convierte aun problema de aprendizaje supervisado
+2020-08-07 19:35:34,567 - sLogger - INFO - SVR_Model[__steps_back]: Se toman pasos anteriores
+2020-08-07 19:36:59,415 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-07 19:36:59,415 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-07 19:36:59,415 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-07 19:36:59,416 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-07 19:37:01,896 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-07 19:37:01,897 - sLogger - INFO - DataProcess[getMediciones]: Se consultaran las mediciones para: Joshua001
+2020-08-07 19:37:01,897 - sLogger - INFO - DbConnection[getMedicion]: Se realizara la siguiente Query en la BD
+2020-08-07 19:37:01,897 - sLogger - INFO - DbConnection[getMedicion]: Query: SELECT TimeMeasure, Potency FROM Tbl_DeviceMeasurement WHERE IdDev = 'Joshua001' AND TimeMeasure >= '2020-03-15 00:00:00' AND TimeMeasure <= '2020-03-16 00:00:00'
+2020-08-07 19:37:43,643 - sLogger - INFO - DbConnection[getMedicion]: La consulta sera convertida a un DataFrame
+2020-08-07 19:37:43,644 - sLogger - INFO - DataProcess[getMediciones]: Se ha realizado la consulta!
+2020-08-07 19:37:43,644 - sLogger - INFO - DataProcess[processData]: Los datos seran procesados!!!
+2020-08-07 19:37:43,678 - sLogger - INFO - DataProcess[processData]: Los datos han sido procesados
+2020-08-07 19:37:43,698 - sLogger - INFO - SVR_Model[__init__]: El modelo SVR sera creado
+2020-08-07 19:37:43,698 - sLogger - INFO - SVR_Model[__split_timeSeries]: El dataFrame tendra un 90% de datos de Entrenamiento
+2020-08-07 19:37:43,699 - sLogger - INFO - SVR_Model[series_to_supervised]: El dataset se convierte aun problema de aprendizaje supervisado
+2020-08-07 19:37:43,736 - sLogger - INFO - SVR_Model[__steps_back]: Se toman pasos anteriores
+2020-08-07 19:38:52,242 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-07 19:38:52,243 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-07 19:38:52,243 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-07 19:38:52,243 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-07 19:38:54,619 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-07 19:38:54,619 - sLogger - INFO - DataProcess[getMediciones]: Se consultaran las mediciones para: Joshua001
+2020-08-07 19:38:54,619 - sLogger - INFO - DbConnection[getMedicion]: Se realizara la siguiente Query en la BD
+2020-08-07 19:38:54,620 - sLogger - INFO - DbConnection[getMedicion]: Query: SELECT TimeMeasure, Potency FROM Tbl_DeviceMeasurement WHERE IdDev = 'Joshua001' AND TimeMeasure >= '2020-03-15 00:00:00' AND TimeMeasure <= '2020-03-16 00:00:00'
+2020-08-07 19:39:38,744 - sLogger - INFO - DbConnection[getMedicion]: La consulta sera convertida a un DataFrame
+2020-08-07 19:39:38,744 - sLogger - INFO - DataProcess[getMediciones]: Se ha realizado la consulta!
+2020-08-07 19:39:38,744 - sLogger - INFO - DataProcess[processData]: Los datos seran procesados!!!
+2020-08-07 19:39:38,779 - sLogger - INFO - DataProcess[processData]: Los datos han sido procesados
+2020-08-07 19:39:38,798 - sLogger - INFO - SVR_Model[__init__]: El modelo SVR sera creado
+2020-08-07 19:39:38,798 - sLogger - ERROR - SVR_Model[__init__]: El modelo SVR no pudo ser creado
+2020-08-07 19:39:38,798 - sLogger - ERROR - SVR_Model[__init__]: Error: ("name 'contex' is not defined",)
+2020-08-07 19:40:01,195 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-07 19:40:01,196 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-07 19:40:01,196 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-07 19:40:01,196 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-07 19:40:03,598 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-07 19:40:03,599 - sLogger - INFO - DataProcess[getMediciones]: Se consultaran las mediciones para: Joshua001
+2020-08-07 19:40:03,599 - sLogger - INFO - DbConnection[getMedicion]: Se realizara la siguiente Query en la BD
+2020-08-07 19:40:03,599 - sLogger - INFO - DbConnection[getMedicion]: Query: SELECT TimeMeasure, Potency FROM Tbl_DeviceMeasurement WHERE IdDev = 'Joshua001' AND TimeMeasure >= '2020-03-15 00:00:00' AND TimeMeasure <= '2020-03-16 00:00:00'
+2020-08-07 19:40:48,852 - sLogger - INFO - DbConnection[getMedicion]: La consulta sera convertida a un DataFrame
+2020-08-07 19:40:48,852 - sLogger - INFO - DataProcess[getMediciones]: Se ha realizado la consulta!
+2020-08-07 19:40:48,853 - sLogger - INFO - DataProcess[processData]: Los datos seran procesados!!!
+2020-08-07 19:40:48,890 - sLogger - INFO - DataProcess[processData]: Los datos han sido procesados
+2020-08-07 19:40:48,911 - sLogger - INFO - SVR_Model[__init__]: El modelo SVR sera creado
+2020-08-07 19:40:48,911 - sLogger - ERROR - SVR_Model[__init__]: El modelo SVR no pudo ser creado
+2020-08-07 19:40:48,911 - sLogger - ERROR - SVR_Model[__init__]: Error: ("name 'contex' is not defined",)
+2020-08-07 19:43:16,041 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-07 19:43:16,041 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-07 19:43:16,041 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-07 19:43:16,041 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-07 19:43:18,356 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-07 19:43:18,356 - sLogger - INFO - DataProcess[getMediciones]: Se consultaran las mediciones para: Joshua001
+2020-08-07 19:43:18,357 - sLogger - INFO - DbConnection[getMedicion]: Se realizara la siguiente Query en la BD
+2020-08-07 19:43:18,357 - sLogger - INFO - DbConnection[getMedicion]: Query: SELECT TimeMeasure, Potency FROM Tbl_DeviceMeasurement WHERE IdDev = 'Joshua001' AND TimeMeasure >= '2020-03-15 00:00:00' AND TimeMeasure <= '2020-03-16 00:00:00'
+2020-08-07 19:43:56,967 - sLogger - INFO - DbConnection[getMedicion]: La consulta sera convertida a un DataFrame
+2020-08-07 19:43:56,967 - sLogger - INFO - DataProcess[getMediciones]: Se ha realizado la consulta!
+2020-08-07 19:43:56,967 - sLogger - INFO - DataProcess[processData]: Los datos seran procesados!!!
+2020-08-07 19:43:57,000 - sLogger - INFO - DataProcess[processData]: Los datos han sido procesados
+2020-08-07 19:43:57,019 - sLogger - INFO - SVR_Model[__init__]: El modelo SVR sera creado
+2020-08-07 19:43:57,019 - sLogger - INFO - SVR_Model[__split_timeSeries]: El dataFrame tendra un 90% de datos de Entrenamiento
+2020-08-07 19:43:57,020 - sLogger - INFO - SVR_Model[series_to_supervised]: El dataset se convierte aun problema de aprendizaje supervisado
+2020-08-07 19:43:57,053 - sLogger - INFO - SVR_Model[__steps_back]: Se toman pasos anteriores
+2020-08-07 19:51:45,529 - sLogger - INFO - DbConnection[connect]: Se inicia la coneccion a la Base de Datos
+2020-08-07 19:51:45,530 - sLogger - INFO - DbConnection[connect]: DbServer: 0.tcp.ngrok.io:17747
+2020-08-07 19:51:45,530 - sLogger - INFO - DbConnection[connect]: DbDataDase: FHC_DataBase
+2020-08-07 19:51:45,530 - sLogger - INFO - DbConnection[connect]: DbUser: RaspiRoot
+2020-08-07 19:51:48,575 - sLogger - INFO - DbConnection[connect]: Coneccion Exitosa!!!
+2020-08-07 19:51:48,575 - sLogger - INFO - DataProcess[getMediciones]: Se consultaran las mediciones para: Joshua001
+2020-08-07 19:51:48,575 - sLogger - INFO - DbConnection[getMedicion]: Se realizara la siguiente Query en la BD
+2020-08-07 19:51:48,575 - sLogger - INFO - DbConnection[getMedicion]: Query: SELECT TimeMeasure, Potency FROM Tbl_DeviceMeasurement WHERE IdDev = 'Joshua001' AND TimeMeasure >= '2020-03-15 00:00:00' AND TimeMeasure <= '2020-03-16 00:00:00'
+2020-08-07 19:52:26,152 - sLogger - INFO - DbConnection[getMedicion]: La consulta sera convertida a un DataFrame
+2020-08-07 19:52:26,153 - sLogger - INFO - DataProcess[getMediciones]: Se ha realizado la consulta!
+2020-08-07 19:52:26,153 - sLogger - INFO - DataProcess[processData]: Los datos seran procesados!!!
+2020-08-07 19:52:26,189 - sLogger - INFO - DataProcess[processData]: Los datos han sido procesados
+2020-08-07 19:52:26,209 - sLogger - INFO - SVR_Model[__init__]: El modelo SVR sera creado
+2020-08-07 19:52:26,209 - sLogger - INFO - SVR_Model[__split_timeSeries]: El dataFrame tendra un 90% de datos de Entrenamiento
+2020-08-07 19:52:26,209 - sLogger - INFO - SVR_Model[series_to_supervised]: El dataset se convierte aun problema de aprendizaje supervisado
+2020-08-07 19:52:26,220 - sLogger - INFO - SVR_Model[__steps_back]: Se toman 5 pasos anteriores de la serie temporal 
+2020-08-07 19:52:26,221 - sLogger - INFO - SVR_Model[__predictFutureSeries]: CICLO: 0
+2020-08-07 19:52:26,221 - sLogger - INFO - SVR_Model[__trainModel]: Se procede a realizar el entrenamiento con el modelo SVR
+2020-08-07 19:52:50,740 - sLogger - INFO - SVR_Model[__trainModel]: Se procede a realizar la prediccion con el modelo SVR
+2020-08-07 19:52:50,742 - sLogger - INFO - SVR_Model[__predictFutureSeries]: CICLO: 1
+2020-08-07 19:52:50,742 - sLogger - INFO - SVR_Model[__trainModel]: Se procede a realizar el entrenamiento con el modelo SVR
+2020-08-07 19:53:15,313 - sLogger - INFO - SVR_Model[__trainModel]: Se procede a realizar la prediccion con el modelo SVR
+2020-08-07 19:53:15,314 - sLogger - INFO - SVR_Model[__predictFutureSeries]: CICLO: 2
+2020-08-07 19:53:15,315 - sLogger - INFO - SVR_Model[__trainModel]: Se procede a realizar el entrenamiento con el modelo SVR
+2020-08-07 19:53:41,663 - sLogger - INFO - SVR_Model[__trainModel]: Se procede a realizar la prediccion con el modelo SVR
+2020-08-07 19:53:41,664 - sLogger - INFO - SVR_Model[__predictFutureSeries]: CICLO: 3
+2020-08-07 19:53:41,665 - sLogger - INFO - SVR_Model[__trainModel]: Se procede a realizar el entrenamiento con el modelo SVR
+2020-08-07 19:54:08,089 - sLogger - INFO - SVR_Model[__trainModel]: Se procede a realizar la prediccion con el modelo SVR
+2020-08-07 19:54:08,091 - sLogger - INFO - SVR_Model[__predictFutureSeries]: CICLO: 4
+2020-08-07 19:54:08,091 - sLogger - INFO - SVR_Model[__trainModel]: Se procede a realizar el entrenamiento con el modelo SVR
+2020-08-07 19:54:34,516 - sLogger - INFO - SVR_Model[__trainModel]: Se procede a realizar la prediccion con el modelo SVR
