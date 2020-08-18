@@ -78,3 +78,54 @@ class DataProcess(object):
             logg.error(f"DataProcess[processData]: Error: {str(ex.args)}")
             
             return None
+
+    def splitDatos(self, data, porcentaje):
+
+        logg.info(f"DataProcess[splitDatos]: Se usara el: {porcentaje}% para Entrenamiento y un: {100-porcentaje}% para Testing")
+
+        length = data.shape[0]
+        ntime = round(length * (porcentaje / 100))
+
+        train = data.iloc[:ntime]
+        test  = data.iloc[ntime:]
+
+        return train, test
+
+    def ventanaDeslizante(self, data, step, window, target=1, op=1):
+
+        df = pd.DataFrame()
+        window += 1
+
+
+        names = list()
+
+        for i in range(-window+target, target):
+            names += [('(t%d)' % (i)) if i<0 else ('(t+%d)' % (i))]
+
+        for i in range(0, data.shape[0], step):
+            if(i+window > data.shape[0]):
+                break
+            lagged = data.iloc[i:i+window].reset_index(drop=True)
+            lagged = lagged.T.reset_index(drop=True)
+
+            df = df.append(lagged)
+        
+        df.columns = names
+
+        print(df)
+
+        return df
+
+    def trainingTestingData(self, data, window_Width, target_Width=1):
+
+        data = data.values
+
+        train = data[:,:-target_Width]
+        test = data[:,-target_Width]
+
+        print('TRAIN')
+        print(train)
+        print('TEST')
+        print(test)
+
+        return train, test
